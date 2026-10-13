@@ -1,6 +1,6 @@
 <div align="center">
 
-![Angky Kurniawan](./readmefile/banner.svg)
+![Angky Kurniawan](https://raw.githubusercontent.com/angkykurniawan/angkykurniawan/main/banner.svg)
 
 **Cloud Architect & System Developer**  
 Membangun sistem yang andal, dari cloud hingga browser.
@@ -27,7 +27,7 @@ Membangun sistem yang andal, dari cloud hingga browser.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&hide_border=true&bg_color=070a13&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&hide_border=true&bg_color=070a13&title_color=38BDF8&text_color=94A3B8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angkykurniawan&show_icons=true&hide_border=true&bg_color=070a13&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angkykurniawan&layout=compact&hide_border=true&bg_color=070a13&title_color=38BDF8&text_color=94A3B8)
 
 </div>
