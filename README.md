@@ -1,6 +1,6 @@
 <div align="center">
 
-![Angky Kurniawan](https://raw.githubusercontent.com/angkykurniawan/angkykurniawan/main/banner.html)
+![Angky Kurniawan](https://raw.githubusercontent.com/angkykurniawan/angkykurniawan/main/banner.svg)
 
 </div>
 
