@@ -1,41 +1,71 @@
-<h1 align="center">Hi 👋, I'm Angky Kurniawan</h1>
-<h3 align="center">A passionate System Administrator and Web Developer from Indonesia</h3>
-
 <p align="center">
-  <a href="https://angky.my.id" target="_blank">🌐 Explore my portfolio at angky.my.id</a>
-</p>
+  <table border="0">
+    <tr>
+      <!-- JENDELA KIRI: Terminal Neofetch & ASCII Art -->
+      <td width="42%" valign="top">
+        <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/mocha.png" width="0" height="0">
+<pre style="background-color: #0d1117; color: #00ff66; padding: 15px; border-radius: 8px; border: 1px solid #30363d; font-family: monospace; font-size: 11px; line-height: 1.1;">
+<font color="#ff5f56">●</font> <font color="#ffbd2e">●</font> <font color="#27c93f">●</font>   <span style="color: #8b949e;">angky@avatar:~</span>
 
----
+<span style="color: #8b949e;">angky@avatar:~$</span> neofetch
 
-### 🚀 About Me
-- 🌱 I’m currently focused on **Cloud Infrastructure, Network Administration, and Web Systems**.
-- ⚡ Fun fact: I love automating systems, deploying scalable web apps, and exploring Linux/Debian architecture.
-- 📫 How to reach me: Check out my personal website [angky.my.id](https://angky.my.id).
+<font color="#00ff66">
+               .---.
+           '-.       .-'
+          '     _     '
+         |     (_)     |
+         |             |
+          '           '
+           '-.     .-'
+               '---'
+            ,---------,
+          .'           '.
+         /               \
+        |                 |
+        |                 |
+         \               /
+          '.           .'
+            '---...---'
+           /           \
+          /             \
+         /               \
+        |                 |
+        |                 |
+         \               /
+          '.           .'
+            '---...---'
+</font>
+</pre>
+      </td>
 
----
+      <!-- JENDELA KANAN: Terminal Profile Info -->
+      <td width="58%" valign="top">
+<pre style="background-color: #0d1117; color: #c9d1d9; padding: 15px; border-radius: 8px; border: 1px solid #30363d; font-family: monospace; font-size: 12px; line-height: 1.5;">
+<font color="#ff5f56">●</font> <font color="#ffbd2e">●</font> <font color="#27c93f">●</font>   <span style="color: #8b949e;">angky@terminal:~</span>
 
-### 💻 Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,debian,proxmox,aws,docker,nginx,php,laravel,js,ts,vue,git,bash&perline=13" alt="Tech Stack" />
-</p>
+<span style="color: #8b949e;">const</span> greeting = <span style="color: #a5d6ff;">"Hi 👋"</span>;
 
----
+<span style="font-size: 18px; font-weight: bold; color: #ffffff;">I'm <font color="#00ff66">Angky Kurniawan</font></span>
 
-### 📊 GitHub Stats
+<span style="color: #00ff66;">&gt;</span> <span style="font-weight: bold;">Network, Linux &amp; Web Systems</span>
+
+📍 Location: Indonesia
+🎓 Focus: System Administration &amp; Web Eng.
+<span style="color: #00ff66;">&gt;_</span> Stack: Linux, Proxmox, PHP, Laravel, AWS
+🌐 Portfolio: <a href="https://angky.my.id" style="color: #00ff66; text-decoration: none;">angky.my.id</a>
+📧 Contact: <a href="mailto:admin@angky.my.id" style="color: #00ff66; text-decoration: none;">admin@angky.my.id</a>
+
+<b>Skills &amp; Technologies</b>
+</pre>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Angky's GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,proxmox,docker,aws,php,laravel,js,ts,vue,nginx,git&perline=6" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angky&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/angky"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://angky.my.id"><img src="https://img.shields.io/badge/Website-00ff66?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>"Building reliable networks and clean web applications."</i>
+      </td>
+    </tr>
+  </table>
 </p>
