@@ -18,6 +18,9 @@
 ![PHP](https://img.shields.io/badge/PHP-0C1730?style=flat-square&logo=php&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-818CF8?style=flat-square&logo=terraform&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-38BDF8?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-0C1730?style=flat-square&logo=nginx&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-818CF8?style=flat-square&logo=javascript&logoColor=white)
 
 ---
 
