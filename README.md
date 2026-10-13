@@ -2,12 +2,6 @@
 
 ![Angky Kurniawan](https://raw.githubusercontent.com/angkykurniawan/angkykurniawan/main/banner.svg)
 
-**Cloud Architect & System Developer**  
-Membangun sistem yang andal, dari cloud hingga browser.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-angky.my.id-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://angky.my.id)
-[![Email](https://img.shields.io/badge/Email-Hubungi_Saya-818CF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@angky.my.id)
-
 </div>
 
 ---
