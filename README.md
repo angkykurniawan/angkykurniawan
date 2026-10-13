@@ -1,5 +1,3 @@
-angky@web3:\~/profile/README.md
-
 # ANGKY KURNIAWAN
 
 ⛓️ Cloud Architect • System Developer • Web3 Explorer ⛓️
