@@ -69,9 +69,4 @@
 <rect x="699" y="468" width="48" height="28" rx="8" fill="#0c2a3a" stroke="#38BDF8" stroke-opacity="0.6"/><text x="723" y="486" text-anchor="middle" font-size="12" fill="#38BDF8">Git</text>
 <rect x="757" y="468" width="130" height="28" rx="8" fill="#0b1220" stroke="#334155" stroke-opacity="0.6"/><text x="822" y="486" text-anchor="middle" font-size="12" fill="#E2E8F0">GitHub Actions</text>
 
-<circle cx="382" cy="528" r="12" fill="none" stroke="#475569"/><text x="382" y="532" text-anchor="middle" font-size="9" font-weight="700" fill="#94A3B8">GH</text>
-<circle cx="418" cy="528" r="12" fill="none" stroke="#475569"/><text x="418" y="532" text-anchor="middle" font-size="9" font-weight="700" fill="#94A3B8">in</text>
-<circle cx="454" cy="528" r="12" fill="none" stroke="#475569"/><text x="454" y="532" text-anchor="middle" font-size="9" font-weight="700" fill="#94A3B8">X</text>
-<circle cx="490" cy="528" r="12" fill="none" stroke="#475569"/><text x="490" y="532" text-anchor="middle" font-size="9" font-weight="700" fill="#94A3B8">www</text>
-
 </svg>
