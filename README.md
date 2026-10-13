@@ -4,7 +4,7 @@
 
 <!--
   Credly badges: hapus tanda komentar ini setelah link badge diisi.
-  Ulangi baris <a> untuk tiap badge. 
+  Ulangi baris <a> untuk tiap badge.
   <a href="LINK_PUBLIK_BADGE_CREDLY"><img src="LINK_GAMBAR_BADGE_CREDLY" alt="NAMA_BADGE" width="110" /></a>
 -->
 
@@ -12,20 +12,28 @@
 
 </div>
 
-## About
+<img src="./cards/about.svg" alt="About" width="100%" />
 
-Cloud architect and system developer based in Indonesia. I design and run cloud infrastructure, build web applications and backend systems, and spend my spare time learning Web3: smart contracts and decentralized storage.
+<img src="./cards/overview.svg" alt="GitHub overview" width="100%" />
 
----
+<img src="./cards/languages.svg" alt="Languages" width="100%" />
 
-## GitHub Stats
+### Contributions
 
-Includes private repositories. Updated daily by GitHub Actions.
+Klik tahun untuk membuka grafiknya.
 
-<img src="./metrics.stats.svg" alt="Repositories, stars and forks" width="100%" />
+<!--YEARS:START-->
+<details open>
+<summary><b>2026</b></summary>
 
-<img src="./metrics.languages.svg" alt="Languages used" width="100%" />
+<img src="./cards/contrib-2026.svg" alt="Contributions 2026" width="100%" />
 
-**Contributions**
+</details>
 
-<img src="https://raw.githubusercontent.com/angkykurniawan/angkykurniawan/output/github-snake-dark.svg" alt="Contribution graph" width="100%" />
+<details>
+<summary><b>2025</b></summary>
+
+<img src="./cards/contrib-2025.svg" alt="Contributions 2025" width="100%" />
+
+</details>
+<!--YEARS:END-->
