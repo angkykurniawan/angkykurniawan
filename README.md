@@ -15,13 +15,15 @@ Membangun sistem yang andal, dari cloud hingga browser.
 ### 🛠️ Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-38BDF8?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0C1730?style=flat-square&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-38BDF8?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-818CF8?style=flat-square&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-0C1730?style=flat-square&logo=nginx&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-818CF8?style=flat-square&logo=php&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-0C1730?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-818CF8?style=flat-square&logo=linux&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-38BDF8?style=flat-square&logo=ngrok&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-0C1730?style=flat-square&logo=solidity&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-818CF8?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-38BDF8?style=flat-square&logo=react&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0C1730?style=flat-square&logo=php&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-818CF8?style=flat-square&logo=terraform&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-38BDF8?style=flat-square&logo=javascript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0C1730?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
