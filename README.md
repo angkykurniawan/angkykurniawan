@@ -4,7 +4,7 @@
 
 </div>
 
----
+----
 
 ### 🛠️ Tech Stack
 
@@ -22,7 +22,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-0C1730?style=flat-square&logo=nginx&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-818CF8?style=flat-square&logo=javascript&logoColor=white)
 
----
+----
 
 <div align="center">
 
