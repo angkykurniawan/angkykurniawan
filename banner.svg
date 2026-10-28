@@ -11,7 +11,7 @@
 <circle cx="32" cy="34" r="6" fill="#EF4444"/><circle cx="54" cy="34" r="6" fill="#F59E0B"/><circle cx="76" cy="34" r="6" fill="#22C55E"/>
 <text x="170" y="38" text-anchor="middle" font-size="12" fill="#94A3B8" font-weight="700">admin@angky.my.id:~</text>
 <line x1="10" y1="56" x2="330" y2="56" stroke="#1E293B"/>
-<text x="30" y="92" font-size="13" fill="#94A3B8">admin@angky.my.id:~$ <tspan fill="#F1F5F9" font-weight="700">neofetch</tspan><tspan fill="#38BDF8"> █<animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+<text x="30" y="92" font-size="13" fill="#94A3B8">ptp@mail.angky.my.id:~$ <tspan fill="#F1F5F9" font-weight="700">neofetch</tspan><tspan fill="#38BDF8"> █<animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></tspan></text>
 <g font-size="10.5" xml:space="preserve" style="white-space:pre">
 <text x="111.9" y="150" fill="url(#accent)">.:+**####**+:.</text>
 <text x="86.7" y="163" fill="url(#accent)">.+*################*+.</text>
