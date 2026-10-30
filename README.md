@@ -29,8 +29,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=angkykurniawan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=070a13&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8" height="180" alt="GitHub Stats" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angkykurniawan&layout=compact&hide_border=true&bg_color=070a13&title_color=38BDF8&text_color=94A3B8" height="180" alt="Top Languages" />
 
 </div>
